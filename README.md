@@ -49,9 +49,9 @@
 
 ---
 
-### 🐍 Snake Game (Coming Soon)
+### 🐍 Snake Game
 <p align="center">
-  <code>Snake animation setup in progress... ⏳</code><br>
+  <img src="https://raw.githubusercontent.com/syedbilal07/syedbilal07/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
