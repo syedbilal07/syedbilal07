@@ -27,9 +27,14 @@
 ---
 
 ### 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://koderskube.com"><img src="https://img.shields.io/badge/Website-Visit-0d1117?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/syed-bilal-page-speed-expert/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://koderskube.com">
+    <img src="https://img.shields.io/badge/Website-Visit-00BFFF?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/syed-bilal-page-speed-expert/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -44,8 +49,9 @@
 
 ### 🧮 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyedUsername&label=Profile%20Views&color=0d1117&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=SyedUsername&label=Profile%20Views&color=00BFFF&style=flat-square" />
 </p>
+
 
 ---
 
